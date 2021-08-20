@@ -1,3 +1,3 @@
 # projeto-springreact
 
-Sistema analises de vendas
+Sistema de analises de vendas
